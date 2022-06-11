@@ -11,6 +11,11 @@ high/moderate: степень схожести (rank)
 
 те же рисунки на google drive: https://drive.google.com/drive/folders/1w3Ac2Lh3jStAVkFUwDM5AbvtbUv1sjA9?usp=sharing
 
+promoters: сравнение только промотеров.
+more_conservative: пары генов, у которых схожи предсказания сайтов формирования Z-ДНК.
+conservative_but_low: пары генов, у которых схожи предсказания сайтов, но низкий z-score (возможно, результат схожести последовательностей, а не консервативности Z-ДНК)
+
+
 mouse_fly(bwd)/mouse_fly_bwd.xlsx:  таблица количества найденных сайтов формирования z-днк (при разных пороговых значениях) в гене и в промоторе для пар ортологов.
 
 
